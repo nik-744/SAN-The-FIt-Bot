@@ -4,7 +4,7 @@ import google.generativeai as genai
 import requests
 
 # Configure the API with the provided API key
-genai.configure(api_key="AIzaSyCSryri9Mgo2oqump05gw0NHOYr3FIrml0")
+genai.configure(api_key="API_KEY")
 
 # Define generation configuration
 generation_config = {
